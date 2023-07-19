@@ -1,4 +1,4 @@
-### Hi, I'm Jacob 👋
+### I'm Jacob
 
 - 💡 Learning mostly Java and Python
 - 🌐 Interested in cybersecurity (mostly WebSec)
